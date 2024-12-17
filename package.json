@@ -1,12 +1,12 @@
 {
   "name": "mesto",
-  "description": "My project in RTU MIREA.",
+  "description": "Six project in RTU MIREA",
   "version": "1.0.0",
-  "author": " <nikitafon2005@gmail.com>",
+  "author": " <negeorgefloyd@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Relax1205/Sixth_project.Server.git"
+    "url": "git+https://github.com/nedavi/six_project"
   },
   "homepage": "https://github.com/AstreyaJulia/mesto#readme",
   "scripts": {
