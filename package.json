@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "author": " <negeorgefloyd@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedavi/six_project"
+  },
+  "homepage": "https://github.com/nedavi/empty",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
